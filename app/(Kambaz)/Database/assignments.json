@@ -1,0 +1,191 @@
+[
+    {
+        "_id": "CS1234-A1",
+        "course": "CS1234",
+        "title": "A1 – HTML",
+        "points": 100,
+        "due": "2025-02-10T23:59:00",
+        "availableFrom": "2025-02-03T00:00:00",
+        "description": "Build a static homepage using semantic HTML."
+    },
+    {
+        "_id": "CS1234-A2",
+        "course": "CS1234",
+        "title": "A2 – CSS",
+        "points": 100,
+        "due": "2025-02-17T23:59:00",
+        "availableFrom": "2025-02-10T00:00:00",
+        "description": "Style your homepage with flexbox and responsive rules."
+    },
+    {
+        "_id": "CS1234-A3",
+        "course": "CS1234",
+        "title": "A3 – React Components",
+        "points": 100,
+        "due": "2025-02-24T23:59:00",
+        "availableFrom": "2025-02-17T00:00:00",
+        "description": "Create a small React app using components and props."
+    },
+    {
+        "_id": "PH5678-A1",
+        "course": "PH5678",
+        "title": "A1 – Qubits",
+        "points": 100,
+        "due": "2025-02-12T23:59:00",
+        "availableFrom": "2025-02-05T00:00:00",
+        "description": "Short write-up on superposition and measurement."
+    },
+    {
+        "_id": "PH5678-A2",
+        "course": "PH5678",
+        "title": "A2 – Deutsch–Jozsa",
+        "points": 100,
+        "due": "2025-02-19T23:59:00",
+        "availableFrom": "2025-02-12T00:00:00",
+        "description": "Explain the algorithm and provide a simple simulation."
+    },
+    {
+        "_id": "PH5678-A3",
+        "course": "PH5678",
+        "title": "A3 – Grover’s Search",
+        "points": 100,
+        "due": "2025-02-26T23:59:00",
+        "availableFrom": "2025-02-19T00:00:00",
+        "description": "Analyze complexity and implement a toy example."
+    },
+    {
+        "_id": "AS9012-A1",
+        "course": "AS9012",
+        "title": "A1 – Telescopes",
+        "points": 100,
+        "due": "2025-02-11T23:59:00",
+        "availableFrom": "2025-02-04T00:00:00",
+        "description": "Compare optical vs radio telescopes."
+    },
+    {
+        "_id": "AS9012-A2",
+        "course": "AS9012",
+        "title": "A2 – Galaxies",
+        "points": 100,
+        "due": "2025-02-18T23:59:00",
+        "availableFrom": "2025-02-11T00:00:00",
+        "description": "Classify galaxy types and key properties."
+    },
+    {
+        "_id": "AS9012-A3",
+        "course": "AS9012",
+        "title": "A3 – Stellar Life Cycle",
+        "points": 100,
+        "due": "2025-02-25T23:59:00",
+        "availableFrom": "2025-02-18T00:00:00",
+        "description": "Describe the stages from protostar to remnant."
+    },
+    {
+        "_id": "GD3456-A1",
+        "course": "GD3456",
+        "title": "A1 – Unity Basics",
+        "points": 100,
+        "due": "2025-02-13T23:59:00",
+        "availableFrom": "2025-02-06T00:00:00",
+        "description": "Set up a Unity project and scene."
+    },
+    {
+        "_id": "GD3456-A2",
+        "course": "GD3456",
+        "title": "A2 – Physics & Collisions",
+        "points": 100,
+        "due": "2025-02-20T23:59:00",
+        "availableFrom": "2025-02-13T00:00:00",
+        "description": "Create a demo with rigidbodies and colliders."
+    },
+    {
+        "_id": "GD3456-A3",
+        "course": "GD3456",
+        "title": "A3 – C# Scripting",
+        "points": 100,
+        "due": "2025-02-27T23:59:00",
+        "availableFrom": "2025-02-20T00:00:00",
+        "description": "Implement basic player controls with C#."
+    },
+    {
+        "_id": "AI7890-A1",
+        "course": "AI7890",
+        "title": "A1 – Supervised Learning",
+        "points": 100,
+        "due": "2025-02-14T23:59:00",
+        "availableFrom": "2025-02-07T00:00:00",
+        "description": "Train and evaluate a classifier on a small dataset."
+    },
+    {
+        "_id": "AI7890-A2",
+        "course": "AI7890",
+        "title": "A2 – Neural Networks",
+        "points": 100,
+        "due": "2025-02-21T23:59:00",
+        "availableFrom": "2025-02-14T00:00:00",
+        "description": "Build an MLP and report accuracy."
+    },
+    {
+        "_id": "AI7890-A3",
+        "course": "AI7890",
+        "title": "A3 – Evaluation Metrics",
+        "points": 100,
+        "due": "2025-02-28T23:59:00",
+        "availableFrom": "2025-02-21T00:00:00",
+        "description": "Compare precision/recall/F1 across models."
+    },
+    {
+        "_id": "CY2222-A1",
+        "course": "CY2222",
+        "title": "A1 – Threat Modeling",
+        "points": 100,
+        "due": "2025-02-15T23:59:00",
+        "availableFrom": "2025-02-08T00:00:00",
+        "description": "Construct a STRIDE model for a sample app."
+    },
+    {
+        "_id": "CY2222-A2",
+        "course": "CY2222",
+        "title": "A2 – Network Security",
+        "points": 100,
+        "due": "2025-02-22T23:59:00",
+        "availableFrom": "2025-02-15T00:00:00",
+        "description": "Analyze a TLS handshake and firewall rules."
+    },
+    {
+        "_id": "CY2222-A3",
+        "course": "CY2222",
+        "title": "A3 – Secure Coding",
+        "points": 100,
+        "due": "2025-03-01T23:59:00",
+        "availableFrom": "2025-02-22T00:00:00",
+        "description": "Fix OWASP Top 10 issues in a code sample."
+    },
+    {
+        "_id": "DS3333-A1",
+        "course": "DS3333",
+        "title": "A1 – Viz Foundations",
+        "points": 100,
+        "due": "2025-02-16T23:59:00",
+        "availableFrom": "2025-02-09T00:00:00",
+        "description": "Redesign a chart using proper marks/channels."
+    },
+    {
+        "_id": "DS3333-A2",
+        "course": "DS3333",
+        "title": "A2 – D3 Scales & Joins",
+        "points": 100,
+        "due": "2025-02-23T23:59:00",
+        "availableFrom": "2025-02-16T00:00:00",
+        "description": "Build a bar chart with D3 scales and data join."
+    },
+    {
+        "_id": "DS3333-A3",
+        "course": "DS3333",
+        "title": "A3 – Storytelling",
+        "points": 100,
+        "due": "2025-03-02T23:59:00",
+        "availableFrom": "2025-02-23T00:00:00",
+        "description": "Create a narrative dashboard with annotations."
+    }
+]

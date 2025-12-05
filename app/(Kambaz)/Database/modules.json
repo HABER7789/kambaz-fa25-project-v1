@@ -1,0 +1,440 @@
+[
+    {
+        "_id": "CS1234-M1",
+        "name": "Introduction to React",
+        "description": "What React is and why it’s useful. JSX and components.",
+        "course": "CS1234",
+        "lessons": [
+            {
+                "_id": "CS1234-M1-L1",
+                "name": "What is React?",
+                "description": "History and goals of React.",
+                "module": "CS1234-M1"
+            },
+            {
+                "_id": "CS1234-M1-L2",
+                "name": "JSX & Rendering",
+                "description": "How JSX compiles and renders.",
+                "module": "CS1234-M1"
+            },
+            {
+                "_id": "CS1234-M1-L3",
+                "name": "Components & Props",
+                "description": "Creating and passing props.",
+                "module": "CS1234-M1"
+            }
+        ]
+    },
+    {
+        "_id": "CS1234-M2",
+        "name": "State & Events",
+        "description": "Managing state, handling events, and lifting state up.",
+        "course": "CS1234",
+        "lessons": [
+            {
+                "_id": "CS1234-M2-L1",
+                "name": "useState",
+                "description": "Local state with hooks.",
+                "module": "CS1234-M2"
+            },
+            {
+                "_id": "CS1234-M2-L2",
+                "name": "Events",
+                "description": "Handling form and DOM events.",
+                "module": "CS1234-M2"
+            },
+            {
+                "_id": "CS1234-M2-L3",
+                "name": "Lifting State Up",
+                "description": "Share state across components.",
+                "module": "CS1234-M2"
+            }
+        ]
+    },
+    {
+        "_id": "CS1234-M3",
+        "name": "Next.js Routing",
+        "description": "App Router, dynamic routes, and data fetching.",
+        "course": "CS1234",
+        "lessons": [
+            {
+                "_id": "CS1234-M3-L1",
+                "name": "App Router Primer",
+                "description": "Pages, layouts, and segments.",
+                "module": "CS1234-M3"
+            },
+            {
+                "_id": "CS1234-M3-L2",
+                "name": "Dynamic Routes",
+                "description": "Route params and folder names.",
+                "module": "CS1234-M3"
+            },
+            {
+                "_id": "CS1234-M3-L3",
+                "name": "Client vs Server",
+                "description": "When to use each.",
+                "module": "CS1234-M3"
+            }
+        ]
+    },
+    {
+        "_id": "PH5678-M1",
+        "name": "Quantum Basics",
+        "description": "Qubits, superposition, and measurement.",
+        "course": "PH5678",
+        "lessons": [
+            {
+                "_id": "PH5678-M1-L1",
+                "name": "Qubits",
+                "description": "Two-level quantum systems.",
+                "module": "PH5678-M1"
+            },
+            {
+                "_id": "PH5678-M1-L2",
+                "name": "Superposition & Measurement",
+                "description": "States and collapse.",
+                "module": "PH5678-M1"
+            }
+        ]
+    },
+    {
+        "_id": "PH5678-M2",
+        "name": "Quantum Algorithms",
+        "description": "Deutsch–Jozsa, Grover, and more.",
+        "course": "PH5678",
+        "lessons": [
+            {
+                "_id": "PH5678-M2-L1",
+                "name": "Deutsch–Jozsa",
+                "description": "First quantum speedup.",
+                "module": "PH5678-M2"
+            },
+            {
+                "_id": "PH5678-M2-L2",
+                "name": "Grover’s Search",
+                "description": "Quadratic speedup.",
+                "module": "PH5678-M2"
+            }
+        ]
+    },
+    {
+        "_id": "PH5678-M3",
+        "name": "Quantum Hardware",
+        "description": "Superconducting qubits, ion traps, and decoherence.",
+        "course": "PH5678",
+        "lessons": [
+            {
+                "_id": "PH5678-M3-L1",
+                "name": "Superconducting Qubits",
+                "description": "Circuit-QED overview.",
+                "module": "PH5678-M3"
+            },
+            {
+                "_id": "PH5678-M3-L2",
+                "name": "Ion Traps",
+                "description": "Principles and tradeoffs.",
+                "module": "PH5678-M3"
+            }
+        ]
+    },
+    {
+        "_id": "AS9012-M1",
+        "name": "Telescopes & Instruments",
+        "description": "Optical, radio, and space telescopes.",
+        "course": "AS9012",
+        "lessons": [
+            {
+                "_id": "AS9012-M1-L1",
+                "name": "Optical Telescopes",
+                "description": "Reflectors vs refractors.",
+                "module": "AS9012-M1"
+            },
+            {
+                "_id": "AS9012-M1-L2",
+                "name": "Radio Astronomy",
+                "description": "Arrays and interferometry.",
+                "module": "AS9012-M1"
+            }
+        ]
+    },
+    {
+        "_id": "AS9012-M2",
+        "name": "Galaxies & Cosmology",
+        "description": "Galaxy formation and expansion of the universe.",
+        "course": "AS9012",
+        "lessons": [
+            {
+                "_id": "AS9012-M2-L1",
+                "name": "Galaxy Types",
+                "description": "Elliptical, spiral, irregular.",
+                "module": "AS9012-M2"
+            },
+            {
+                "_id": "AS9012-M2-L2",
+                "name": "Hubble–Lemaître Law",
+                "description": "Redshift–distance relation.",
+                "module": "AS9012-M2"
+            }
+        ]
+    },
+    {
+        "_id": "AS9012-M3",
+        "name": "Stellar Physics",
+        "description": "Life cycle of stars and nucleosynthesis.",
+        "course": "AS9012",
+        "lessons": [
+            {
+                "_id": "AS9012-M3-L1",
+                "name": "HR Diagram",
+                "description": "Main sequence to giants.",
+                "module": "AS9012-M3"
+            },
+            {
+                "_id": "AS9012-M3-L2",
+                "name": "End States",
+                "description": "White dwarfs, neutron stars, BHs.",
+                "module": "AS9012-M3"
+            }
+        ]
+    },
+    {
+        "_id": "GD3456-M1",
+        "name": "Unity Basics",
+        "description": "Editor, GameObjects, and Components.",
+        "course": "GD3456",
+        "lessons": [
+            {
+                "_id": "GD3456-M1-L1",
+                "name": "Project Setup",
+                "description": "Scenes, prefabs, hierarchy.",
+                "module": "GD3456-M1"
+            },
+            {
+                "_id": "GD3456-M1-L2",
+                "name": "Materials & Lighting",
+                "description": "Rendering basics.",
+                "module": "GD3456-M1"
+            }
+        ]
+    },
+    {
+        "_id": "GD3456-M2",
+        "name": "Physics & Collisions",
+        "description": "Rigidbodies, colliders, and triggers.",
+        "course": "GD3456",
+        "lessons": [
+            {
+                "_id": "GD3456-M2-L1",
+                "name": "Rigidbodies",
+                "description": "Forces & motion.",
+                "module": "GD3456-M2"
+            },
+            {
+                "_id": "GD3456-M2-L2",
+                "name": "Collisions & Triggers",
+                "description": "Collision callbacks.",
+                "module": "GD3456-M2"
+            }
+        ]
+    },
+    {
+        "_id": "GD3456-M3",
+        "name": "Scripting",
+        "description": "C# scripting patterns in Unity.",
+        "course": "GD3456",
+        "lessons": [
+            {
+                "_id": "GD3456-M3-L1",
+                "name": "Input & Movement",
+                "description": "Player controller.",
+                "module": "GD3456-M3"
+            },
+            {
+                "_id": "GD3456-M3-L2",
+                "name": "Game Loop",
+                "description": "Update, coroutines, timers.",
+                "module": "GD3456-M3"
+            }
+        ]
+    },
+    {
+        "_id": "AI7890-M1",
+        "name": "Intro to ML",
+        "description": "Supervised vs unsupervised learning.",
+        "course": "AI7890",
+        "lessons": [
+            {
+                "_id": "AI7890-M1-L1",
+                "name": "Data & Features",
+                "description": "Preprocessing basics.",
+                "module": "AI7890-M1"
+            },
+            {
+                "_id": "AI7890-M1-L2",
+                "name": "Linear Models",
+                "description": "Regression/classification.",
+                "module": "AI7890-M1"
+            }
+        ]
+    },
+    {
+        "_id": "AI7890-M2",
+        "name": "Neural Networks",
+        "description": "Perceptrons and MLPs.",
+        "course": "AI7890",
+        "lessons": [
+            {
+                "_id": "AI7890-M2-L1",
+                "name": "Backpropagation",
+                "description": "Gradients & training.",
+                "module": "AI7890-M2"
+            },
+            {
+                "_id": "AI7890-M2-L2",
+                "name": "Regularization",
+                "description": "Dropout, weight decay.",
+                "module": "AI7890-M2"
+            }
+        ]
+    },
+    {
+        "_id": "AI7890-M3",
+        "name": "Model Evaluation",
+        "description": "Metrics, validation, and overfitting.",
+        "course": "AI7890",
+        "lessons": [
+            {
+                "_id": "AI7890-M3-L1",
+                "name": "Precision/Recall/F1",
+                "description": "Trade-offs & ROC.",
+                "module": "AI7890-M3"
+            },
+            {
+                "_id": "AI7890-M3-L2",
+                "name": "Cross-Validation",
+                "description": "K-fold & leakage.",
+                "module": "AI7890-M3"
+            }
+        ]
+    },
+    {
+        "_id": "CY2222-M1",
+        "name": "Security Fundamentals",
+        "description": "Threats, vulnerabilities, and risks.",
+        "course": "CY2222",
+        "lessons": [
+            {
+                "_id": "CY2222-M1-L1",
+                "name": "CIA Triad",
+                "description": "Confidentiality, integrity, availability.",
+                "module": "CY2222-M1"
+            },
+            {
+                "_id": "CY2222-M1-L2",
+                "name": "Threat Models",
+                "description": "STRIDE/PASTA overview.",
+                "module": "CY2222-M1"
+            }
+        ]
+    },
+    {
+        "_id": "CY2222-M2",
+        "name": "Network Security",
+        "description": "TLS, firewalls, IDS/IPS.",
+        "course": "CY2222",
+        "lessons": [
+            {
+                "_id": "CY2222-M2-L1",
+                "name": "TLS & PKI",
+                "description": "Certificates and handshakes.",
+                "module": "CY2222-M2"
+            },
+            {
+                "_id": "CY2222-M2-L2",
+                "name": "Firewalls & IDS",
+                "description": "Filtering & detection.",
+                "module": "CY2222-M2"
+            }
+        ]
+    },
+    {
+        "_id": "CY2222-M3",
+        "name": "App Security",
+        "description": "OWASP Top 10 and secure coding.",
+        "course": "CY2222",
+        "lessons": [
+            {
+                "_id": "CY2222-M3-L1",
+                "name": "Injection & XSS",
+                "description": "Mitigation strategies.",
+                "module": "CY2222-M3"
+            },
+            {
+                "_id": "CY2222-M3-L2",
+                "name": "Auth & Session",
+                "description": "Best practices.",
+                "module": "CY2222-M3"
+            }
+        ]
+    },
+    {
+        "_id": "DS3333-M1",
+        "name": "Data Viz Foundations",
+        "description": "Marks, channels, and perception.",
+        "course": "DS3333",
+        "lessons": [
+            {
+                "_id": "DS3333-M1-L1",
+                "name": "Marks & Channels",
+                "description": "Encode data effectively.",
+                "module": "DS3333-M1"
+            },
+            {
+                "_id": "DS3333-M1-L2",
+                "name": "Perception",
+                "description": "Pre-attentive attributes.",
+                "module": "DS3333-M1"
+            }
+        ]
+    },
+    {
+        "_id": "DS3333-M2",
+        "name": "D3.js Basics",
+        "description": "Selections, joins, and scales.",
+        "course": "DS3333",
+        "lessons": [
+            {
+                "_id": "DS3333-M2-L1",
+                "name": "Selections & Joins",
+                "description": "Enter/update/exit.",
+                "module": "DS3333-M2"
+            },
+            {
+                "_id": "DS3333-M2-L2",
+                "name": "Scales & Axes",
+                "description": "Linear, band, time.",
+                "module": "DS3333-M2"
+            }
+        ]
+    },
+    {
+        "_id": "DS3333-M3",
+        "name": "Storytelling with Data",
+        "description": "Narrative and layout.",
+        "course": "DS3333",
+        "lessons": [
+            {
+                "_id": "DS3333-M3-L1",
+                "name": "Narrative Structure",
+                "description": "Context–insight–action.",
+                "module": "DS3333-M3"
+            },
+            {
+                "_id": "DS3333-M3-L2",
+                "name": "Dashboards",
+                "description": "Layout & annotations.",
+                "module": "DS3333-M3"
+            }
+        ]
+    }
+]

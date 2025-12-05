@@ -1,0 +1,107 @@
+[
+    {
+        "_id": "e1",
+        "user": "u1",
+        "course": "CS1234"
+    },
+    {
+        "_id": "e2",
+        "user": "u2",
+        "course": "CS1234"
+    },
+    {
+        "_id": "e3",
+        "user": "u3",
+        "course": "CS1234"
+    },
+    {
+        "_id": "e4",
+        "user": "u4",
+        "course": "PH5678"
+    },
+    {
+        "_id": "e5",
+        "user": "u5",
+        "course": "PH5678"
+    },
+    {
+        "_id": "e6",
+        "user": "u2",
+        "course": "PH5678"
+    },
+    {
+        "_id": "e7",
+        "user": "u1",
+        "course": "AS9012"
+    },
+    {
+        "_id": "e8",
+        "user": "u6",
+        "course": "AS9012"
+    },
+    {
+        "_id": "e9",
+        "user": "u3",
+        "course": "AS9012"
+    },
+    {
+        "_id": "e10",
+        "user": "u4",
+        "course": "GD3456"
+    },
+    {
+        "_id": "e11",
+        "user": "u5",
+        "course": "GD3456"
+    },
+    {
+        "_id": "e12",
+        "user": "u6",
+        "course": "GD3456"
+    },
+    {
+        "_id": "e13",
+        "user": "u2",
+        "course": "AI7890"
+    },
+    {
+        "_id": "e14",
+        "user": "u3",
+        "course": "AI7890"
+    },
+    {
+        "_id": "e15",
+        "user": "u1",
+        "course": "AI7890"
+    },
+    {
+        "_id": "e16",
+        "user": "u4",
+        "course": "CY2222"
+    },
+    {
+        "_id": "e17",
+        "user": "u5",
+        "course": "CY2222"
+    },
+    {
+        "_id": "e18",
+        "user": "u2",
+        "course": "CY2222"
+    },
+    {
+        "_id": "e19",
+        "user": "u6",
+        "course": "DS3333"
+    },
+    {
+        "_id": "e20",
+        "user": "u1",
+        "course": "DS3333"
+    },
+    {
+        "_id": "e21",
+        "user": "u4",
+        "course": "DS3333"
+    }
+]

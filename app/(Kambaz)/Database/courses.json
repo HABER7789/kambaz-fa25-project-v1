@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "CS1234",
+    "number": "CS1234",
+    "name": "React JS",
+    "description": "Full Stack Software Developer",
+    "img": "/images/react.png"
+  },
+  {
+    "_id": "PH5678",
+    "number": "PH5678",
+    "name": "Quantum Computing",
+    "description": "Algorithms and Applications in Quantum Tech",
+    "img": "/images/quantum.jpg"
+  },
+  {
+    "_id": "AS9012",
+    "number": "AS9012",
+    "name": "Modern Astronomy",
+    "description": "Exploring the Universe and Galaxies",
+    "img": "/images/astro.png"
+  },
+  {
+    "_id": "GD3456",
+    "number": "GD3456",
+    "name": "Game Development",
+    "description": "Building 2D & 3D Games with Unity",
+    "img": "/images/game.png"
+  },
+  {
+    "_id": "AI7890",
+    "number": "AI7890",
+    "name": "Artificial Intelligence",
+    "description": "Machine Learning and Neural Networks",
+    "img": "/images/ai.png"
+  },
+  {
+    "_id": "CY2222",
+    "number": "CY2222",
+    "name": "Cybersecurity",
+    "description": "Protecting Systems and Networks",
+    "img": "/images/cyber.png"
+  },
+  {
+    "_id": "DS3333",
+    "number": "DS3333",
+    "name": "Data Visualization",
+    "description": "Telling Stories with Data and D3.js",
+    "img": "/images/dv.jpg"
+  }
+]
